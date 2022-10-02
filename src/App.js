@@ -1,6 +1,5 @@
 import React from "react";
 import { Routes,Route } from "react-router-dom";
-import "./App.css";
 import Layout from "./component/Layout";
 import CreateEvent from "./pages/CreateEvent/CreateEvent";
 import EventPage from "./pages/EventPage/EventPage";
